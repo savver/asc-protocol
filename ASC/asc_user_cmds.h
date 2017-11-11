@@ -38,10 +38,10 @@ ASC_US_Cmds_t;
     extern const ASC_US_Cmds_t    ASC_US_Cmds[];
 
 #ifndef ESC_US_CMDs_COUNT
-    extern uint16_t         ESC_US_CMDs_COUNT;
+    extern uint16_t               ASC_US_CMDs_COUNT;
 #endif
 
 /*--- Define to prevent recursive inclusion ------------------------------- */
-#endif  /* _ESC_USER_CMDS_H */
+#endif  /* _ASC_USER_CMDS_H */
 
 /***********************END OF FILE*******************************************/
